@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE test [
-    <!ENTITY xxeattack SYSTEM "file:///etc/passwd">
+    <!ENTITY xxeattack SYSTEM "file:///usr/attack.txt">
 ]>
 <order>
 	<msgRefid>Msg:12354577890</msgRefid>
